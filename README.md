@@ -1,4 +1,4 @@
-# netflix_sql_project
-The Netflix SQL Project is a data analysis project that explores a dataset of Netflix movies and TV shows using structured query language (SQL). The goal of this project is to extract meaningful insights, perform data cleaning, and analyze content trends available on the Netflix platform.
+#🎬 Netflix SQL Data Analysis Project
+<p align="center"> <img src="images/netflix-logo.png" width="180"> </p> <p align="center"> <b>SQL-driven data analysis of Netflix movies and TV shows dataset</b> </p> <p align="center"> <img src="https://img.shields.io/badge/SQL-Advanced-blue?style=for-the-badge"> <img src="https://img.shields.io/badge/Data%20Analysis-Completed-green?style=for-the-badge"> <img src="https://img.shields.io/badge/Database-PostgreSQL-orange?style=for-the-badge"> </p>
 
 ![Netflix logo](https://github.com/SaiqaJat/netflix_sql_project/blob/main/logo.png)
