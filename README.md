@@ -96,13 +96,14 @@ The dataset includes detailed information about Netflix content:
 ## 📸 Project Highlights
 
 ### 🎬 Movies vs TV Shows Analysis
-_Add your screenshot here_
+<p align="center">
+  <img src="https://github.com/SaiqaJat/netflix_sql_project/blob/main/q1.png" width="180">
+</p>
 
 ### 🌍 Top Countries Contribution
-_Add your screenshot here_
-
-### 🏷️ Genre Distribution
-_Add your screenshot here_
+<p align="center">
+  <img src="https://github.com/SaiqaJat/netflix_sql_project/blob/main/q2.png" width="180">
+</p>
 
 ---
 
